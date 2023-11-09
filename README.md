@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tchfrnkln
-- 👀 I’m interested in Web Development Javascript in particular
+- 👋 Hi, I’m Franklin Tochukwu
+- 👀 I’m interested in Web and Mobile Development with Javascript
 - 🌱 I’m currently learning and working on Blockchain Technologies
-- 💞️ I’m looking to collaborate on Project around the Web dev Space
+- 💞️ I’m looking to collaborate on Project around the Web3 Space
 - 📫 How to reach me email: franktochi156@gmail.com
 
 <!---
